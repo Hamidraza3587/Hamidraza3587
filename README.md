@@ -2,7 +2,7 @@
 - 👀 Coder 
 - 🌱 I’m currently doing my B.Tech in Computer Science Engineering
 - 💞️
-- Here is my Telegram profile link:https://www.linkedin.com/in/hamid-raza-a69b75208/
+- Here is my Linkedin profile link:https://www.linkedin.com/in/hamid-raza-a69b75208/
 
 
 <!---
